@@ -44,6 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  </a> 
 <h2 align="left">About me</h2>
 <p align="left">✨ Creating bugs since I wrote my first line of code<br>📚 I'm currently learning advanced algorithms and software development<br>🎯 Goals: To become a skilled software developer and win hackathons<br>🎲 Fun fact: I sometimes fix a bug just by staring at the screen! 😆</p>
