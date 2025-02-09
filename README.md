@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-gaware-11991427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-gaware" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_yash5223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_gaware" height="30" width="40" /></a>
-</p>
+</p><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
