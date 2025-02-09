@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Engineering student from Pune,India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-r-gaware&label=Profile%20views&color=0e75b6&style=flat" alt="yash-r-gaware" /> </p>
-- 👨‍💻 All of my projects are available at [https://linktr.ee/yash_gaware](https://linktr.ee/yash_gaware)
+- 👨‍💻 All of my projects are available at [[https://linktr.ee/yash_gaware](https://linktr.ee/_yash5223)]
 - ⚡ Fun fact **I sometimes fix bugs just by staring at the screen! 😆**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
