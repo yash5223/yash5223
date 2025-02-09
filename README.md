@@ -1,6 +1,6 @@
 ![logo](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Yash Ravikant Gaware</h1>
-<h3 align="center">A passionate Computer Engineering student from Pune,India</h3><br>
+<h3 align="center">A passionate Computer Engineering student from Pune,India</h3>
 <h3 align="center">WELCOME TO MY GITHUB PROFILE </h3><br>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-r-gaware&label=Profile%20views&color=0e75b6&style=flat" alt="yash-r-gaware" /> </p>
