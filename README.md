@@ -13,11 +13,11 @@
 <p align="left">✨ Creating bugs since I wrote my first line of code<br>📚 I'm currently learning advanced algorithms and software development<br>🎯 Goals: To become a skilled software developer and win hackathons<br>🎲 Fun fact: I sometimes fix a bug just by staring at the screen! 😆</p>
 
 ###
-<img scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding image" align="right" width="400">
 
 <h2 align="left">I code with</h2>
 
 ###
+<img scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding image" align="right" width="400">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
