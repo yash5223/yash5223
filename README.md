@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![image](https://github.com/user-attachments/assets/70a2bf58-2fff-4fe7-9153-493d5dc4307b)<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -13,6 +13,7 @@
 <p align="left">✨ Creating bugs since I wrote my first line of code<br>📚 I'm currently learning advanced algorithms and software development<br>🎯 Goals: To become a skilled software developer and win hackathons<br>🎲 Fun fact: I sometimes fix a bug just by staring at the screen! 😆</p>
 
 ###
+<img scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding image" align="right" width="400">
 
 <h2 align="left">I code with</h2>
 
