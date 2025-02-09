@@ -1,21 +1,15 @@
 ![logo](https://github.com/Yash-R-Gaware/Yash-R-Gaware/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Yash Ravikant Gaware</h1>
-<h3 align="center">A passionate Computer Engineering student from India</h3>
-
+<h3 align="center">A passionate Computer Engineering student from Pune,India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-r-gaware&label=Profile%20views&color=0e75b6&style=flat" alt="yash-r-gaware" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://linktr.ee/yash_gaware](https://linktr.ee/yash_gaware)
-
 - ⚡ Fun fact **I sometimes fix bugs just by staring at the screen! 😆**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-gaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-gaware" height="30" width="40" /></a>
 <a href="https://instagram.com/yash_gaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_gaware" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -52,9 +46,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <h2 align="left">About me</h2>
-###
 <p align="left">✨ Creating bugs since I wrote my first line of code<br>📚 I'm currently learning advanced algorithms and software development<br>🎯 Goals: To become a skilled software developer and win hackathons<br>🎲 Fun fact: I sometimes fix a bug just by staring at the screen! 😆</p>
-###
-<h2 align="left">I code with</h2>
-###
-<img scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="codingimage" align="right">
