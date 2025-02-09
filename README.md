@@ -48,3 +48,7 @@
   </a> 
 <h2 align="left">About me</h2>
 <p align="left">✨ Creating bugs since I wrote my first line of code<br>📚 I'm currently learning advanced algorithms and software development<br>🎯 Goals: To become a skilled software developer and win hackathons<br>🎲 Fun fact: I sometimes fix a bug just by staring at the screen! 😆</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash5223&show_icons=true&locale=en" alt="yash5223" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash5223&" alt="yash5223" /></p>
